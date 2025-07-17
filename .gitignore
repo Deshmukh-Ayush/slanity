@@ -24,6 +24,7 @@
 .DS_Store
 *.pem
 /src/app/test
+/src/app/api/test
 
 # debug
 npm-debug.log*
